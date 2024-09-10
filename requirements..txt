@@ -1,0 +1,12 @@
+pandas
+python-dotenv
+langchain
+langchain-cohere
+langchain-community
+langchain-core
+langchain-groq
+faiss-cpu
+requests
+fastapi
+pydantic
+uvicorn
