@@ -1,12 +1,9 @@
 # FLIP-Chart
-# FLIP-Chart
+FlipChart addresses a critical challenge in the fashion retail industry—accurate sizing. Many apparel sellers, particularly smaller brands, struggle to provide precise size charts, making it difficult for customers to find the right fit. This often leads to dissatisfaction, low conversion rates, and increased return costs.
 
+FlipChart leverages advanced AI techniques to generate accurate, dynamic size charts tailored to individual customers. Using a Retrieval-Augmented Generation (RAG) framework, it employs CoIBERT embeddings to retrieve and rank product data based on user reviews, body measurements, and purchase history. By integrating models like TILDEv2 and MonoT5, FlipChart ensures relevance and precision in its recommendations.
 
-An anime website built using React and Sass which leverages the jikan API for all the anime data.
-Implemented optimizations like debouncing,code-splitting and lazyloading through examination of lighthouse report.
-            Features a well designed description page which has a trailer section along with character gallery of the anime.
-            Utilized Context API for state-management
-            Bifurcates Anime based on genres like Popular, Airing, Upcoming etc. along with search functionality.
+The system’s vector database encodes various data points, including body type, purchase history, and product returns, improving the retrieval of relevant size information. Its few-shot learning capabilities allow for easy adaptation to new brands and product lines with minimal training, while continuous feedback loops ensure up-to-date accuracy. FlipChart offers a scalable, efficient solution that enhances the shopping experience and reduces sizing issues, particularly for emerging brands.
 
 
 ## Demo Video 
