@@ -9,7 +9,11 @@ The system’s vector database encodes various data points, including body type,
 ## Demo Video 
 https://drive.google.com/file/d/19_fx_WtL1DyxJq1IWtp1eic8gFz5YBOV/view?usp=sharing
 
-## Model Architecture
+## Model Architecture And Algorithm
+
+The algorithm follows a multi-step process to generate accurate size charts. First, a pool of documents containing product data, user reviews, and other relevant information is created. The CoIBERT model, a pre-trained retriever, is then employed to process the pool of documents alongside a query, ranking the documents based on similarity scores. From these, the top-k documents are parsed into paragraphs for further analysis.
+
+Next, advanced reranking algorithms, such as TILDEv2 and MonoT5, are applied to these top-k paragraphs to refine the rankings and ensure query-specific relevance. The refined paragraphs are then passed to a reader model, such as Claude or GPT-3.5, where each paragraph, along with the query, is evaluated. Finally, the system aggregates the results, selecting the best size chart for a product based on the confidence scores provided by the reader model.
 ![GRID-Page-5 drawio-min](https://github.com/user-attachments/assets/64c410ce-982b-4935-ae7f-ae0f44ec34b6)
 
 
