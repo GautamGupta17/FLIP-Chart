@@ -12,3 +12,4 @@ Implemented optimizations like debouncing,code-splitting and lazyloading through
 (https://drive.google.com/file/d/19_fx_WtL1DyxJq1IWtp1eic8gFz5YBOV/view?usp=sharing)
 
 ## Model Architecture
+![GRID-Page-5 drawio-min](https://github.com/user-attachments/assets/64c410ce-982b-4935-ae7f-ae0f44ec34b6)
