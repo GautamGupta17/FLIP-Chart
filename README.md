@@ -11,3 +11,16 @@ https://drive.google.com/file/d/19_fx_WtL1DyxJq1IWtp1eic8gFz5YBOV/view?usp=shari
 
 ## Model Architecture
 ![GRID-Page-5 drawio-min](https://github.com/user-attachments/assets/64c410ce-982b-4935-ae7f-ae0f44ec34b6)
+
+
+## Dataset Description And Screenshots
+Balanced partitions for men and women  
+Semantic review inference for review filtering
+20+ unique article attributes.
+Attribute body_shape ID - gives article’s best fit body type.
+Categories: 
+Jackets, Jeans, t shirts, Shirts, Dresses, trousers, sweatshirts, tops
+Size charts with Label shifts. 
+
+SEND SS PLIS!!!!
+
