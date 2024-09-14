@@ -29,9 +29,9 @@ Size charts with Label shifts.
 SEND SS PLIS!!!!
 
 ## TECH STACK
-React
-Express
-Node js
-MongoDB
-FAST Api
+React<br>
+Express<br>
+Node js<br>
+MongoDB<br>
+FAST Api<br>
 ADDD MOre Here plis
