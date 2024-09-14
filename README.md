@@ -28,3 +28,10 @@ Size charts with Label shifts.
 
 SEND SS PLIS!!!!
 
+## TECH STACK
+1.React
+2.Express
+3.Node js
+4.MongoDB
+3.FAST Api
+4.ADDD MOre Here plis
