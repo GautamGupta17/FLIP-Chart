@@ -1,4 +1,4 @@
-# FLIP-Chart
+# FLIP-Chart - Flipkart Grid 6.0 SemiFinals Submission
 FlipChart addresses a critical challenge in the fashion retail industry—accurate sizing. Many apparel sellers, particularly smaller brands, struggle to provide precise size charts, making it difficult for customers to find the right fit. This often leads to dissatisfaction, low conversion rates, and increased return costs.
 
 FlipChart leverages advanced AI techniques to generate accurate, dynamic size charts tailored to individual customers. Using a Retrieval-Augmented Generation (RAG) framework, it employs CoIBERT embeddings to retrieve and rank product data based on user reviews, body measurements, and purchase history. By integrating models like TILDEv2 and MonoT5, FlipChart ensures relevance and precision in its recommendations.
