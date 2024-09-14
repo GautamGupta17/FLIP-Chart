@@ -25,8 +25,8 @@ Attribute body_shape ID - gives article’s best fit body type.
 Categories: 
 Jackets, Jeans, t shirts, Shirts, Dresses, trousers, sweatshirts, tops
 Size charts with Label shifts. 
+![Screenshot 2024-09-14 155443](https://github.com/user-attachments/assets/f5190956-9f6e-4771-8ee2-7b8e8e989024)
 
-SEND SS PLIS!!!!
 
 ## TECH STACK
 React<br>
