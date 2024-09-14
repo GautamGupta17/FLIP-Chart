@@ -8,6 +8,4 @@ Implemented optimizations like debouncing,code-splitting and lazyloading through
             Bifurcates Anime based on genres like Popular, Airing, Upcoming etc. along with search functionality.
 
 
-## Demo
-
-[https://github.com/ajaykumarkc/Anisream_-Anime-Web-App-Using-React-and-Jikan-API/assets/99161525/b5bb0853-ede1-4c58-9ba7-e613283ed801](https://github.com/ajaykumarkc/Anistream_-Anime-Website-using-Jikan-Api/assets/99161525/a1c98123-d5d7-42f2-ad41-3aab2e26e199)
+## Demo Video (https://drive.google.com/file/d/19_fx_WtL1DyxJq1IWtp1eic8gFz5YBOV/view?usp=sharing)
