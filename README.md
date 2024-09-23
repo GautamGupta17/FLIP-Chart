@@ -7,7 +7,7 @@ The system’s vector database encodes various data points, including body type,
 
 
 ## Demo Video 
-[![Watch the video](https://github.com/user-attachments/assets/64c410ce-982b-4935-ae7f-ae0f44ec34b6)](https://drive.google.com/file/d/1T9uZKjgIRl1O61xBMbzuGM8Nc64smK6w/preview)
+[![Watch the video](https://github.com/user-attachments/assets/64681d4d-3eeb-4d48-9e2c-dc68d5557fc6)](https://drive.google.com/file/d/1T9uZKjgIRl1O61xBMbzuGM8Nc64smK6w/preview)
 
 ## Model Architecture And Algorithm
 
